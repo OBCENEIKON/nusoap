@@ -1,5 +1,5 @@
 {
-  "name": "econea/nusoap",
+  "name": "obceneikon/nusoap",
   "type": "library",
   "description": "NuSOAP fixed for PHP 5.4 - 7.1",
   "keywords": ["soap","nusoap"],
