@@ -6,17 +6,13 @@ All credits belongs to official author(s): http://nusoap.sourceforge.net.
 ----
 
 
-[![Build Status](https://img.shields.io/travis/econea/nusoap.svg?style=flat-square)](https://travis-ci.org/econea/nusoap)
-[![Code coverage](https://img.shields.io/coveralls/econea/nusoap.svg?style=flat-square)](https://coveralls.io/r/econea/nusoap)
-[![Licence](https://img.shields.io/packagist/l/econea/nusoap.svg?style=flat-square)](https://packagist.org/packages/econea/nusoap)
+[![Build Status](https://img.shields.io/travis/obceneikon/nusoap.svg?style=flat-square)](https://travis-ci.org/obceneikon/nusoap)
+[![Code coverage](https://img.shields.io/coveralls/obceneikon/nusoap.svg?style=flat-square)](https://coveralls.io/r/obceneikon/nusoap)
+[![Licence](https://img.shields.io/packagist/l/obceneikon/nusoap.svg?style=flat-square)](https://packagist.org/packages/obceneikon/nusoap)
 
-[![Downloads this Month](https://img.shields.io/packagist/dm/econea/nusoap.svg?style=flat-square)](https://packagist.org/packages/econea/nusoap)
-[![Downloads total](https://img.shields.io/packagist/dt/econea/nusoap.svg?style=flat-square)](https://packagist.org/packages/econea/nusoap)
-[![Latest stable](https://img.shields.io/packagist/v/econea/nusoap.svg?style=flat-square)](https://packagist.org/packages/econea/nusoap)
-
-## Discussion / Help
-
-[![Join the chat](https://img.shields.io/gitter/room/econea/econea.svg?style=flat-square)](http://bit.ly/ecogitter)
+[![Downloads this Month](https://img.shields.io/packagist/dm/obceneikon/nusoap.svg?style=flat-square)](https://packagist.org/packages/obceneikon/nusoap)
+[![Downloads total](https://img.shields.io/packagist/dt/obceneikon/nusoap.svg?style=flat-square)](https://packagist.org/packages/obceneikon/nusoap)
+[![Latest stable](https://img.shields.io/packagist/v/obceneikon/nusoap.svg?style=flat-square)](https://packagist.org/packages/obceneikon/nusoap)
 
 ## Install
 
@@ -25,7 +21,7 @@ All credits belongs to official author(s): http://nusoap.sourceforge.net.
 Solid rock version is `~0.9.5.x`.
 
 ```sh
-composer require econea/nusoap:~0.9.5.1
+composer require obceneikon/nusoap:~0.9.5.5
 ```
 
 ### `Next`
@@ -42,7 +38,7 @@ Just bug fixing for `>=0.9.6`. Update your composer.json.
 And install next version.
 
 ```sh
-composer require econea/nusoap:^0.9.6
+composer require obceneikon/nusoap:^0.9.6
 ```
 
 ### `Development`
@@ -50,7 +46,7 @@ composer require econea/nusoap:^0.9.6
 Total refactored version (split into more files, CI, etc).
 
 ```sh
-composer require econea/nusoap:dev-develop
+composer require obceneikon/nusoap:dev-develop
 ```
 
 ## Version
@@ -59,7 +55,7 @@ composer require econea/nusoap:dev-develop
 |-------------|---------------|-----------|----------|-------------------------------------------------|
 | development | `dev-develop` | `develop` | `>= 5.6` |                                                 |
 | next        | `^0.9.6`      | `0.9.x`   | `>= 5.4` |                                                 |
-| stable      | `~0.9.5.1`    | `master`  | `>= 5.4` |                                                 |
+| stable      | `~0.9.5.5`    | `master`  | `>= 5.4` |                                                 |
 
 ## Usage
 
@@ -80,7 +76,7 @@ Take a look at `develop` branch. There will be new features and modernizations.
 Minimal version is set to PHP 5.6.
 
 ```sh
-composer require econea/nusoap:dev-master
+composer require obceneikon/nusoap:dev-master
 ```
 
 ## Maintainers
